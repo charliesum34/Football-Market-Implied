@@ -20,8 +20,7 @@ For the **2023/2024 Championship Season**, the current market-implied strength r
 ![ChampImpliedNew](https://github.com/user-attachments/assets/cba3e6bf-0023-4044-855d-b8e1935151e3)
 
 
-
-
+This throws up some interesting results. Pinnacle thought Leeds were the best team over the course of the season, yet they weren't one of the 3 promoted teams! The market still rated Boro as the 5th best side despite an eventual 8th place finish after being ravaged with injuries. You would suspect in Boro's case that this injury misfortune is not sustainable and they can accelerate into a comfortable playoff position in 24/25 with worse title-chasing depth in the league. 
 
 
 
