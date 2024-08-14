@@ -17,7 +17,8 @@ The model uses match data from the **2023/2024 Championship season**, from https
 
 For the **2023/2024 Championship Season**, the current market-implied strength rankings for the teams were:
 
-![championship_strength](C:\\Users\\Cgh\\Pictures\\ChampImpliedRatings.PNG)
+![championship_strength](images/ChampImpliedRatings.PNG)
+
 
 
 
